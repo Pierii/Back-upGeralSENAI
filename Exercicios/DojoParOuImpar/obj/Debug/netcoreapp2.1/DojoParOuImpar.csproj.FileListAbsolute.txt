@@ -1,0 +1,11 @@
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\DojoParOuImpar\bin\Debug\netcoreapp2.1\DojoParOuImpar.deps.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\DojoParOuImpar\bin\Debug\netcoreapp2.1\DojoParOuImpar.runtimeconfig.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\DojoParOuImpar\bin\Debug\netcoreapp2.1\DojoParOuImpar.runtimeconfig.dev.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\DojoParOuImpar\bin\Debug\netcoreapp2.1\DojoParOuImpar.dll
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\DojoParOuImpar\bin\Debug\netcoreapp2.1\DojoParOuImpar.pdb
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\DojoParOuImpar\obj\Debug\netcoreapp2.1\DojoParOuImpar.csprojAssemblyReference.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\DojoParOuImpar\obj\Debug\netcoreapp2.1\DojoParOuImpar.csproj.CoreCompileInputs.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\DojoParOuImpar\obj\Debug\netcoreapp2.1\DojoParOuImpar.AssemblyInfoInputs.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\DojoParOuImpar\obj\Debug\netcoreapp2.1\DojoParOuImpar.AssemblyInfo.cs
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\DojoParOuImpar\obj\Debug\netcoreapp2.1\DojoParOuImpar.dll
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\DojoParOuImpar\obj\Debug\netcoreapp2.1\DojoParOuImpar.pdb

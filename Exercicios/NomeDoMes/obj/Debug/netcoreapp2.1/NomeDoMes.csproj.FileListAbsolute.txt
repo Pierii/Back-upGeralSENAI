@@ -1,0 +1,11 @@
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\NomeDoMes\obj\Debug\netcoreapp2.1\NomeDoMes.csprojAssemblyReference.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\NomeDoMes\obj\Debug\netcoreapp2.1\NomeDoMes.csproj.CoreCompileInputs.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\NomeDoMes\obj\Debug\netcoreapp2.1\NomeDoMes.AssemblyInfoInputs.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\NomeDoMes\obj\Debug\netcoreapp2.1\NomeDoMes.AssemblyInfo.cs
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\NomeDoMes\bin\Debug\netcoreapp2.1\NomeDoMes.deps.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\NomeDoMes\bin\Debug\netcoreapp2.1\NomeDoMes.runtimeconfig.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\NomeDoMes\bin\Debug\netcoreapp2.1\NomeDoMes.runtimeconfig.dev.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\NomeDoMes\bin\Debug\netcoreapp2.1\NomeDoMes.dll
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\NomeDoMes\bin\Debug\netcoreapp2.1\NomeDoMes.pdb
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\NomeDoMes\obj\Debug\netcoreapp2.1\NomeDoMes.dll
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\NomeDoMes\obj\Debug\netcoreapp2.1\NomeDoMes.pdb

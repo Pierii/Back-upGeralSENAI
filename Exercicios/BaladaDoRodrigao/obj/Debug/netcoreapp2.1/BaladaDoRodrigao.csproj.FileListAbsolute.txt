@@ -1,0 +1,11 @@
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\BaladaDoRodrigao\obj\Debug\netcoreapp2.1\BaladaDoRodrigao.csprojAssemblyReference.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\BaladaDoRodrigao\obj\Debug\netcoreapp2.1\BaladaDoRodrigao.csproj.CoreCompileInputs.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\BaladaDoRodrigao\obj\Debug\netcoreapp2.1\BaladaDoRodrigao.AssemblyInfoInputs.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\BaladaDoRodrigao\obj\Debug\netcoreapp2.1\BaladaDoRodrigao.AssemblyInfo.cs
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\BaladaDoRodrigao\bin\Debug\netcoreapp2.1\BaladaDoRodrigao.deps.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\BaladaDoRodrigao\bin\Debug\netcoreapp2.1\BaladaDoRodrigao.runtimeconfig.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\BaladaDoRodrigao\bin\Debug\netcoreapp2.1\BaladaDoRodrigao.runtimeconfig.dev.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\BaladaDoRodrigao\bin\Debug\netcoreapp2.1\BaladaDoRodrigao.dll
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\BaladaDoRodrigao\bin\Debug\netcoreapp2.1\BaladaDoRodrigao.pdb
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\BaladaDoRodrigao\obj\Debug\netcoreapp2.1\BaladaDoRodrigao.dll
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\BaladaDoRodrigao\obj\Debug\netcoreapp2.1\BaladaDoRodrigao.pdb

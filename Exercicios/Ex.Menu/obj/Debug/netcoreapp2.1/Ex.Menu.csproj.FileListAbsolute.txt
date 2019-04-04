@@ -1,0 +1,11 @@
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\Ex.Menu\obj\Debug\netcoreapp2.1\Ex.Menu.csprojAssemblyReference.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\Ex.Menu\obj\Debug\netcoreapp2.1\Ex.Menu.csproj.CoreCompileInputs.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\Ex.Menu\obj\Debug\netcoreapp2.1\Ex.Menu.AssemblyInfoInputs.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\Ex.Menu\obj\Debug\netcoreapp2.1\Ex.Menu.AssemblyInfo.cs
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\Ex.Menu\bin\Debug\netcoreapp2.1\Ex.Menu.deps.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\Ex.Menu\bin\Debug\netcoreapp2.1\Ex.Menu.runtimeconfig.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\Ex.Menu\bin\Debug\netcoreapp2.1\Ex.Menu.runtimeconfig.dev.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\Ex.Menu\bin\Debug\netcoreapp2.1\Ex.Menu.dll
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\Ex.Menu\bin\Debug\netcoreapp2.1\Ex.Menu.pdb
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\Ex.Menu\obj\Debug\netcoreapp2.1\Ex.Menu.dll
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\Ex.Menu\obj\Debug\netcoreapp2.1\Ex.Menu.pdb

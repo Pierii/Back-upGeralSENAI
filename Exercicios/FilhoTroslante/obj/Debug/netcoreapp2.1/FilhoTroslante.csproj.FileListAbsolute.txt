@@ -1,0 +1,11 @@
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\FilhoTroslante\bin\Debug\netcoreapp2.1\FilhoTroslante.deps.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\FilhoTroslante\bin\Debug\netcoreapp2.1\FilhoTroslante.runtimeconfig.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\FilhoTroslante\bin\Debug\netcoreapp2.1\FilhoTroslante.runtimeconfig.dev.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\FilhoTroslante\bin\Debug\netcoreapp2.1\FilhoTroslante.dll
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\FilhoTroslante\bin\Debug\netcoreapp2.1\FilhoTroslante.pdb
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\FilhoTroslante\obj\Debug\netcoreapp2.1\FilhoTroslante.csprojAssemblyReference.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\FilhoTroslante\obj\Debug\netcoreapp2.1\FilhoTroslante.csproj.CoreCompileInputs.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\FilhoTroslante\obj\Debug\netcoreapp2.1\FilhoTroslante.AssemblyInfoInputs.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\FilhoTroslante\obj\Debug\netcoreapp2.1\FilhoTroslante.AssemblyInfo.cs
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\FilhoTroslante\obj\Debug\netcoreapp2.1\FilhoTroslante.dll
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\FilhoTroslante\obj\Debug\netcoreapp2.1\FilhoTroslante.pdb

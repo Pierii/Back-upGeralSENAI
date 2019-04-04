@@ -1,0 +1,11 @@
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\FirstDo\obj\Debug\netcoreapp2.1\FirstDo.csprojAssemblyReference.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\FirstDo\obj\Debug\netcoreapp2.1\FirstDo.csproj.CoreCompileInputs.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\FirstDo\obj\Debug\netcoreapp2.1\FirstDo.AssemblyInfoInputs.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\FirstDo\obj\Debug\netcoreapp2.1\FirstDo.AssemblyInfo.cs
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\FirstDo\bin\Debug\netcoreapp2.1\FirstDo.deps.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\FirstDo\bin\Debug\netcoreapp2.1\FirstDo.runtimeconfig.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\FirstDo\bin\Debug\netcoreapp2.1\FirstDo.runtimeconfig.dev.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\FirstDo\bin\Debug\netcoreapp2.1\FirstDo.dll
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\FirstDo\bin\Debug\netcoreapp2.1\FirstDo.pdb
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\FirstDo\obj\Debug\netcoreapp2.1\FirstDo.dll
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\FirstDo\obj\Debug\netcoreapp2.1\FirstDo.pdb

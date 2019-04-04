@@ -1,0 +1,11 @@
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\DojoCerto\bin\Debug\netcoreapp2.1\DojoCerto.deps.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\DojoCerto\bin\Debug\netcoreapp2.1\DojoCerto.runtimeconfig.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\DojoCerto\bin\Debug\netcoreapp2.1\DojoCerto.runtimeconfig.dev.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\DojoCerto\bin\Debug\netcoreapp2.1\DojoCerto.dll
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\DojoCerto\bin\Debug\netcoreapp2.1\DojoCerto.pdb
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\DojoCerto\obj\Debug\netcoreapp2.1\DojoCerto.csprojAssemblyReference.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\DojoCerto\obj\Debug\netcoreapp2.1\DojoCerto.csproj.CoreCompileInputs.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\DojoCerto\obj\Debug\netcoreapp2.1\DojoCerto.AssemblyInfoInputs.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\DojoCerto\obj\Debug\netcoreapp2.1\DojoCerto.AssemblyInfo.cs
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\DojoCerto\obj\Debug\netcoreapp2.1\DojoCerto.dll
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\DojoCerto\obj\Debug\netcoreapp2.1\DojoCerto.pdb

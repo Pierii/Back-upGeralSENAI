@@ -1,0 +1,11 @@
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\BangDoTempo\obj\Debug\netcoreapp2.1\BangDoTempo.csprojAssemblyReference.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\BangDoTempo\obj\Debug\netcoreapp2.1\BangDoTempo.csproj.CoreCompileInputs.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\BangDoTempo\obj\Debug\netcoreapp2.1\BangDoTempo.AssemblyInfoInputs.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\BangDoTempo\obj\Debug\netcoreapp2.1\BangDoTempo.AssemblyInfo.cs
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\BangDoTempo\bin\Debug\netcoreapp2.1\BangDoTempo.deps.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\BangDoTempo\bin\Debug\netcoreapp2.1\BangDoTempo.runtimeconfig.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\BangDoTempo\bin\Debug\netcoreapp2.1\BangDoTempo.runtimeconfig.dev.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\BangDoTempo\bin\Debug\netcoreapp2.1\BangDoTempo.dll
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\BangDoTempo\bin\Debug\netcoreapp2.1\BangDoTempo.pdb
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\BangDoTempo\obj\Debug\netcoreapp2.1\BangDoTempo.dll
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\BangDoTempo\obj\Debug\netcoreapp2.1\BangDoTempo.pdb
