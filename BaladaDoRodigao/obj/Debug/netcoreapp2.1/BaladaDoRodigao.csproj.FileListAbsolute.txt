@@ -1,0 +1,4 @@
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\BaladaDoRodigao\obj\Debug\netcoreapp2.1\BaladaDoRodigao.csprojAssemblyReference.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\BaladaDoRodigao\obj\Debug\netcoreapp2.1\BaladaDoRodigao.csproj.CoreCompileInputs.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\BaladaDoRodigao\obj\Debug\netcoreapp2.1\BaladaDoRodigao.AssemblyInfoInputs.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\BaladaDoRodigao\obj\Debug\netcoreapp2.1\BaladaDoRodigao.AssemblyInfo.cs

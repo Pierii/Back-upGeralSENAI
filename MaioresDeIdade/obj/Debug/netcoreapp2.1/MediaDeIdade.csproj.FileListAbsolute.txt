@@ -1,0 +1,11 @@
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\MediaDeIdade\bin\Debug\netcoreapp2.1\MediaDeIdade.deps.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\MediaDeIdade\bin\Debug\netcoreapp2.1\MediaDeIdade.runtimeconfig.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\MediaDeIdade\bin\Debug\netcoreapp2.1\MediaDeIdade.runtimeconfig.dev.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\MediaDeIdade\bin\Debug\netcoreapp2.1\MediaDeIdade.dll
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\MediaDeIdade\bin\Debug\netcoreapp2.1\MediaDeIdade.pdb
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\MediaDeIdade\obj\Debug\netcoreapp2.1\MediaDeIdade.csprojAssemblyReference.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\MediaDeIdade\obj\Debug\netcoreapp2.1\MediaDeIdade.csproj.CoreCompileInputs.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\MediaDeIdade\obj\Debug\netcoreapp2.1\MediaDeIdade.AssemblyInfoInputs.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\MediaDeIdade\obj\Debug\netcoreapp2.1\MediaDeIdade.AssemblyInfo.cs
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\MediaDeIdade\obj\Debug\netcoreapp2.1\MediaDeIdade.dll
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\MediaDeIdade\obj\Debug\netcoreapp2.1\MediaDeIdade.pdb

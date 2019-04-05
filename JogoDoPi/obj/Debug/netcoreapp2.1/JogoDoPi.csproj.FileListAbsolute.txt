@@ -1,0 +1,11 @@
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\JogoDoPi\obj\Debug\netcoreapp2.1\JogoDoPi.csprojAssemblyReference.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\JogoDoPi\obj\Debug\netcoreapp2.1\JogoDoPi.csproj.CoreCompileInputs.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\JogoDoPi\obj\Debug\netcoreapp2.1\JogoDoPi.AssemblyInfoInputs.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\JogoDoPi\obj\Debug\netcoreapp2.1\JogoDoPi.AssemblyInfo.cs
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\JogoDoPi\bin\Debug\netcoreapp2.1\JogoDoPi.deps.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\JogoDoPi\bin\Debug\netcoreapp2.1\JogoDoPi.runtimeconfig.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\JogoDoPi\bin\Debug\netcoreapp2.1\JogoDoPi.runtimeconfig.dev.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\JogoDoPi\bin\Debug\netcoreapp2.1\JogoDoPi.dll
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\JogoDoPi\bin\Debug\netcoreapp2.1\JogoDoPi.pdb
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\JogoDoPi\obj\Debug\netcoreapp2.1\JogoDoPi.dll
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\JogoDoPi\obj\Debug\netcoreapp2.1\JogoDoPi.pdb

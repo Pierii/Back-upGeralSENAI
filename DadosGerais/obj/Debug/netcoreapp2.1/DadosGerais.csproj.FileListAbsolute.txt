@@ -1,0 +1,11 @@
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\DadosGerais\obj\Debug\netcoreapp2.1\DadosGerais.csprojAssemblyReference.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\DadosGerais\obj\Debug\netcoreapp2.1\DadosGerais.csproj.CoreCompileInputs.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\DadosGerais\obj\Debug\netcoreapp2.1\DadosGerais.AssemblyInfoInputs.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\DadosGerais\obj\Debug\netcoreapp2.1\DadosGerais.AssemblyInfo.cs
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\DadosGerais\bin\Debug\netcoreapp2.1\DadosGerais.deps.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\DadosGerais\bin\Debug\netcoreapp2.1\DadosGerais.runtimeconfig.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\DadosGerais\bin\Debug\netcoreapp2.1\DadosGerais.runtimeconfig.dev.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\DadosGerais\bin\Debug\netcoreapp2.1\DadosGerais.dll
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\DadosGerais\bin\Debug\netcoreapp2.1\DadosGerais.pdb
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\DadosGerais\obj\Debug\netcoreapp2.1\DadosGerais.dll
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\DadosGerais\obj\Debug\netcoreapp2.1\DadosGerais.pdb
