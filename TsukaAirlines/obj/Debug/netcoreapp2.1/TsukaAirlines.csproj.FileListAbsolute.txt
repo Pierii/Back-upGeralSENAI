@@ -1,0 +1,4 @@
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\TsukaAirlines\obj\Debug\netcoreapp2.1\TsukaAirlines.csprojAssemblyReference.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\TsukaAirlines\obj\Debug\netcoreapp2.1\TsukaAirlines.csproj.CoreCompileInputs.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\TsukaAirlines\obj\Debug\netcoreapp2.1\TsukaAirlines.AssemblyInfoInputs.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\TsukaAirlines\obj\Debug\netcoreapp2.1\TsukaAirlines.AssemblyInfo.cs

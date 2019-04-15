@@ -1,0 +1,4 @@
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\Usuario\obj\Debug\netcoreapp2.1\Usuario.csprojAssemblyReference.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\Usuario\obj\Debug\netcoreapp2.1\Usuario.csproj.CoreCompileInputs.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\Usuario\obj\Debug\netcoreapp2.1\Usuario.AssemblyInfoInputs.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\Usuario\obj\Debug\netcoreapp2.1\Usuario.AssemblyInfo.cs

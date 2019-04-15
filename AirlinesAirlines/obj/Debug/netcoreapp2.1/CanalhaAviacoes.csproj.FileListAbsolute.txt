@@ -1,0 +1,11 @@
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\AirlinesAirlines\obj\Debug\netcoreapp2.1\CanalhaAviacoes.csprojAssemblyReference.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\AirlinesAirlines\obj\Debug\netcoreapp2.1\CanalhaAviacoes.csproj.CoreCompileInputs.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\AirlinesAirlines\obj\Debug\netcoreapp2.1\CanalhaAviacoes.AssemblyInfoInputs.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\AirlinesAirlines\obj\Debug\netcoreapp2.1\CanalhaAviacoes.AssemblyInfo.cs
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\AirlinesAirlines\bin\Debug\netcoreapp2.1\CanalhaAviacoes.deps.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\AirlinesAirlines\bin\Debug\netcoreapp2.1\CanalhaAviacoes.runtimeconfig.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\AirlinesAirlines\bin\Debug\netcoreapp2.1\CanalhaAviacoes.runtimeconfig.dev.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\AirlinesAirlines\bin\Debug\netcoreapp2.1\CanalhaAviacoes.dll
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\AirlinesAirlines\bin\Debug\netcoreapp2.1\CanalhaAviacoes.pdb
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\AirlinesAirlines\obj\Debug\netcoreapp2.1\CanalhaAviacoes.dll
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\AirlinesAirlines\obj\Debug\netcoreapp2.1\CanalhaAviacoes.pdb

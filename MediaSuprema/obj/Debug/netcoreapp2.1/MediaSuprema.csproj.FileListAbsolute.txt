@@ -1,0 +1,11 @@
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\MediaSuprema\bin\Debug\netcoreapp2.1\MediaSuprema.deps.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\MediaSuprema\bin\Debug\netcoreapp2.1\MediaSuprema.runtimeconfig.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\MediaSuprema\bin\Debug\netcoreapp2.1\MediaSuprema.runtimeconfig.dev.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\MediaSuprema\bin\Debug\netcoreapp2.1\MediaSuprema.dll
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\MediaSuprema\bin\Debug\netcoreapp2.1\MediaSuprema.pdb
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\MediaSuprema\obj\Debug\netcoreapp2.1\MediaSuprema.csprojAssemblyReference.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\MediaSuprema\obj\Debug\netcoreapp2.1\MediaSuprema.csproj.CoreCompileInputs.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\MediaSuprema\obj\Debug\netcoreapp2.1\MediaSuprema.AssemblyInfoInputs.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\MediaSuprema\obj\Debug\netcoreapp2.1\MediaSuprema.AssemblyInfo.cs
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\MediaSuprema\obj\Debug\netcoreapp2.1\MediaSuprema.dll
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\MediaSuprema\obj\Debug\netcoreapp2.1\MediaSuprema.pdb

@@ -1,0 +1,11 @@
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\ExMatriz\obj\Debug\netcoreapp2.1\ExMatriz.csprojAssemblyReference.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\ExMatriz\obj\Debug\netcoreapp2.1\ExMatriz.csproj.CoreCompileInputs.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\ExMatriz\obj\Debug\netcoreapp2.1\ExMatriz.AssemblyInfoInputs.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\ExMatriz\obj\Debug\netcoreapp2.1\ExMatriz.AssemblyInfo.cs
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\ExMatriz\bin\Debug\netcoreapp2.1\ExMatriz.deps.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\ExMatriz\bin\Debug\netcoreapp2.1\ExMatriz.runtimeconfig.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\ExMatriz\bin\Debug\netcoreapp2.1\ExMatriz.runtimeconfig.dev.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\ExMatriz\bin\Debug\netcoreapp2.1\ExMatriz.dll
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\ExMatriz\bin\Debug\netcoreapp2.1\ExMatriz.pdb
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\ExMatriz\obj\Debug\netcoreapp2.1\ExMatriz.dll
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\ExMatriz\obj\Debug\netcoreapp2.1\ExMatriz.pdb

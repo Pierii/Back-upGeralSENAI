@@ -1,0 +1,11 @@
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\GeradorDeAbobrinha\bin\Debug\netcoreapp2.1\GeradorDeAbobrinha.deps.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\GeradorDeAbobrinha\bin\Debug\netcoreapp2.1\GeradorDeAbobrinha.runtimeconfig.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\GeradorDeAbobrinha\bin\Debug\netcoreapp2.1\GeradorDeAbobrinha.runtimeconfig.dev.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\GeradorDeAbobrinha\bin\Debug\netcoreapp2.1\GeradorDeAbobrinha.dll
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\GeradorDeAbobrinha\bin\Debug\netcoreapp2.1\GeradorDeAbobrinha.pdb
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\GeradorDeAbobrinha\obj\Debug\netcoreapp2.1\GeradorDeAbobrinha.csprojAssemblyReference.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\GeradorDeAbobrinha\obj\Debug\netcoreapp2.1\GeradorDeAbobrinha.csproj.CoreCompileInputs.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\GeradorDeAbobrinha\obj\Debug\netcoreapp2.1\GeradorDeAbobrinha.AssemblyInfoInputs.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\GeradorDeAbobrinha\obj\Debug\netcoreapp2.1\GeradorDeAbobrinha.AssemblyInfo.cs
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\GeradorDeAbobrinha\obj\Debug\netcoreapp2.1\GeradorDeAbobrinha.dll
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\GeradorDeAbobrinha\obj\Debug\netcoreapp2.1\GeradorDeAbobrinha.pdb

@@ -1,0 +1,11 @@
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\ATMDoSucesso\bin\Debug\netcoreapp2.1\ATMDoSucesso.deps.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\ATMDoSucesso\bin\Debug\netcoreapp2.1\ATMDoSucesso.runtimeconfig.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\ATMDoSucesso\bin\Debug\netcoreapp2.1\ATMDoSucesso.runtimeconfig.dev.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\ATMDoSucesso\bin\Debug\netcoreapp2.1\ATMDoSucesso.dll
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\ATMDoSucesso\bin\Debug\netcoreapp2.1\ATMDoSucesso.pdb
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\ATMDoSucesso\obj\Debug\netcoreapp2.1\ATMDoSucesso.csprojAssemblyReference.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\ATMDoSucesso\obj\Debug\netcoreapp2.1\ATMDoSucesso.csproj.CoreCompileInputs.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\ATMDoSucesso\obj\Debug\netcoreapp2.1\ATMDoSucesso.AssemblyInfoInputs.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\ATMDoSucesso\obj\Debug\netcoreapp2.1\ATMDoSucesso.AssemblyInfo.cs
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\ATMDoSucesso\obj\Debug\netcoreapp2.1\ATMDoSucesso.dll
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\ATMDoSucesso\obj\Debug\netcoreapp2.1\ATMDoSucesso.pdb

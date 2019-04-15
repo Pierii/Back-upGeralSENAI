@@ -1,0 +1,11 @@
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\LoopArvore\bin\Debug\netcoreapp2.1\LoopArvore.deps.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\LoopArvore\bin\Debug\netcoreapp2.1\LoopArvore.runtimeconfig.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\LoopArvore\bin\Debug\netcoreapp2.1\LoopArvore.runtimeconfig.dev.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\LoopArvore\bin\Debug\netcoreapp2.1\LoopArvore.dll
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\LoopArvore\bin\Debug\netcoreapp2.1\LoopArvore.pdb
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\LoopArvore\obj\Debug\netcoreapp2.1\LoopArvore.csprojAssemblyReference.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\LoopArvore\obj\Debug\netcoreapp2.1\LoopArvore.csproj.CoreCompileInputs.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\LoopArvore\obj\Debug\netcoreapp2.1\LoopArvore.AssemblyInfoInputs.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\LoopArvore\obj\Debug\netcoreapp2.1\LoopArvore.AssemblyInfo.cs
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\LoopArvore\obj\Debug\netcoreapp2.1\LoopArvore.dll
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\LoopArvore\obj\Debug\netcoreapp2.1\LoopArvore.pdb
