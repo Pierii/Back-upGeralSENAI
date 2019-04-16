@@ -1,0 +1,11 @@
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\DesafioSENAIzinho\obj\Debug\netcoreapp2.1\DesafioSENAIzinho.csprojAssemblyReference.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\DesafioSENAIzinho\obj\Debug\netcoreapp2.1\DesafioSENAIzinho.csproj.CoreCompileInputs.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\DesafioSENAIzinho\obj\Debug\netcoreapp2.1\DesafioSENAIzinho.AssemblyInfoInputs.cache
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\DesafioSENAIzinho\obj\Debug\netcoreapp2.1\DesafioSENAIzinho.AssemblyInfo.cs
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\DesafioSENAIzinho\bin\Debug\netcoreapp2.1\DesafioSENAIzinho.deps.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\DesafioSENAIzinho\bin\Debug\netcoreapp2.1\DesafioSENAIzinho.runtimeconfig.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\DesafioSENAIzinho\bin\Debug\netcoreapp2.1\DesafioSENAIzinho.runtimeconfig.dev.json
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\DesafioSENAIzinho\bin\Debug\netcoreapp2.1\DesafioSENAIzinho.dll
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\DesafioSENAIzinho\bin\Debug\netcoreapp2.1\DesafioSENAIzinho.pdb
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\DesafioSENAIzinho\obj\Debug\netcoreapp2.1\DesafioSENAIzinho.dll
+C:\Users\46181942866\Documents\DEV SIS\SENAI\Aulas\C#\Exercicios\DesafioSENAIzinho\obj\Debug\netcoreapp2.1\DesafioSENAIzinho.pdb
